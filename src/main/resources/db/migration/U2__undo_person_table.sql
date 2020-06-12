@@ -1,0 +1,1 @@
+Drop table if exists dbSpringFlyWay.person;
